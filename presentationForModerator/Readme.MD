@@ -9,7 +9,7 @@
 # 2 Set in Python Presentation
 
 ### Here is the link:
-🔗 [View Presentation](https://www.facebook.com/share/v/1AvA3Fo3LJ/)
+🔗 [View Presentation](https://www.facebook.com/share/v/1HFWm3C8o5/)
 ### Time 
 5 pm
 
