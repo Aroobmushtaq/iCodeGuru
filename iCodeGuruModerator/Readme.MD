@@ -38,3 +38,5 @@
 12pm
 
 ---
+
+![Moderator Banner](banner.png)
