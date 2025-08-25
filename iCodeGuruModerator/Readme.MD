@@ -39,4 +39,4 @@
 
 ---
 
-![Moderator Banner](iCodeGuruModerator\images\moderatorBanner.jpg)
+![Moderator Banner](https://github.com/Aroobmushtaq/iCodeGuru/blob/main/iCodeGuruModerator/images/moderatorBanner.jpg)
