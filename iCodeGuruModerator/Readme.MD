@@ -40,3 +40,4 @@
 ---
 
 ![Moderator Banner](https://github.com/Aroobmushtaq/iCodeGuru/blob/main/iCodeGuruModerator/images/moderatorBanner.jpg)
+[View Moderator Banner Post](https://www.linkedin.com/posts/icode-guru_announcement-icodeguru-is-excited-activity-7364657687000739840-bbJB?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAExPiQkBiSsYTHaUudAsisTKXy_IfFw9jb8&utm_campaign=whatsapp)
